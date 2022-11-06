@@ -1,7 +1,7 @@
 ---
 title: How Keeping a Sketchbook Can Make You a Better Developer
 description: The benefits I've found from keeping a sketchbook while learning to code.
-date: 2020-11-30
+date: 2021-07-07
 tags:
   - code
 layout: layouts/post.njk
