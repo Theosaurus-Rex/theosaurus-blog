@@ -31,7 +31,13 @@ Previously, there have been two main roadblocks stopping me from writing more fr
 
 ### Why do I care what people think of my writing?
 
-Paragraph about letting go of what other people think of my blog posts.
+Entering the tech industry was a huge trajectory shift from my previous studies at art school, and along with that change came a healthy dose of imposter syndrome. Unfortunately, as many far more experienced devs have informed me, that feeling is one that lingers throughout your entire career as a developer - you just have to find ways to live alongside it without sacrificing your mental health.
+
+Since starting my developer career, imposter syndrome has not only been a constant companion, but a roadblock that more often than not has stopped me from sharing my writing with others. Unfortunately, I have the additional setback of not being born a cishet man, which means that when I _do_ overcome my own internalised scrutiny and share something I've made online, there are many people more than willing to scrutinise instead. Unfortunately being openly queer means that this usually comes in the form of targeted harassment - I've been told to stick a fork in an electrical outlet more than once after sharing a tech-related opinion online - to a degree that many cishet male developers simply don't experience.
+
+It's taken me a while to realise that, regardless of the content I post, simply daring to exist as an openly queer indivdual within a male-dominated industry is going to mean I'm a target no matter what. The quality of my work has no bearing on this - I could write the best and most thoroughly researched article and I'm sure there would still be snide comments made questioning my knowledge and capability. I'm choosing to embrace that.
+
+See, knowing that this is the case has made me realise that I simply don't have to care what people think of my work. Knowing that I could write something that I feel is the perfect blog and still have targeted harassment thrown my way as a result has made me realise that I can share my work without it being perfect. There is no consequence to sharing my thoughts online, because the result is the same every time. Knowing this and continuing to hold it in the back of my mind as I share my writing has become the key to tearing down this particular mental barrier.
 
 ### Making time for personal development
 
