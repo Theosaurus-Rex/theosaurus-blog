@@ -41,7 +41,16 @@ See, knowing that this is the case has made me realise that I simply don't have 
 
 ### Making time for personal development
 
-Talk about prioritising time for personal development outside of work and using writing blogs as a tool for this.
+Historically, I've not been the best at setting aside time for myself and the things I want to do outside of work. I'm generally a morning person, and will be at my computer by around 7am most days. Since this is when I feel most productive, I'll generally start work around then, which has its benefits and drawbacks. However, this is a habit I've realised is having a negative impact on my life overall - starting at 7am and finishing at 5pm, when my coworkers and I are generally expected to wrap up, means I'm working around 10 hours per day. This is bad for a few reasons:
+
+- I'm salaried, so I don't actually get paid for the extra work and time I put into my code and various other bits of work
+- I'm spending 10+ hours in front of a computer every workday
+- I find that by 5pm I'm losing a lot of focus (though, as mentioned above, I am generally someone who is more focussed and productive in the morning than I am in the afternoon)
+- I'm using time I could be spending on personal development for unpaid work instead
+
+Writing all of this down is making me realise just how bad this habit has become and the negative impact it's having on my day-to-day life, especially as someone who works from home and is easily tempted by my desk and work equipment being _right there_ within easy reach. This year I want to try and actively structure my day to better utilise my time, especially given that I'll be taking a design course (which I'll touch on below) while working a full time job.
+
+My plan is to timebox my mornings and start working at my actual salaried job no earlier than 9am - currently, the dev I am on a project with has family commitments and tends to start later than that anyway, so there's less benefit to me starting early given that we rarely touch base with each other before around 10am. By keeping to this schedule, I'll free up around 2 hours in the morning where I am feeling refreshed and energised that will allow me to not only write more often, but additionally, will give me time to work on my other goals.
 
 ## Kickstart my product design career
 
