@@ -24,3 +24,29 @@ Andrew Tate, for those who have been living under a rock, is a self-described "L
 So, wine in hand, I said "Fuck it, I'm writing a blog post on why this is a poorly designed and executed site.", and now you're here, dear reader!
 
 # Ok nerd, what even is a design critique?
+
+Glad you asked!
+
+For the uninitiated, a design critique, also often called an app crtiique for, y'know, critiquing app design, is an exercise that's commonly used during job interviews for product design positions. At a high level, the designer will either go through a whole app or, in some cases, a particular workflow within the app (e.g. creating a new board on Pinterest), and will assess multiple different aspects of the app's design and usability:
+
+- What kind of users would be the typical audience for this app?
+- What problem is the app or website trying to solve? How does it achieve this, if at all?
+- How do the colours, typography and visual assets come together to form a visual identity for the product or company?
+- How easy is it to complete workflows or find specific features within the app?
+- Is the app easy to use? Does it adhere to conventional controls that users may already be used to from other apps?
+
+This is a very, VERY high level overview and if you like, you can [read an article by someone who knows more than me](https://uxdesign.cc/app-critique-framework-for-product-design-interviews-24b64cfad4ab) (highly recommended).
+
+# Hey, that's for an app though - you were talking about Andrew Tate's website?
+
+Yep!
+
+These are all core design critique principals that can be applied across most digital products, and I want to stretch my wings a bit and try to work on critiquing as many different kinds of digital experiences as I can. I think being able to recognise design strengths and weaknesses across platforms is super useful, and gives me a larger range of experiences to draw from. Websites are also incredibly interesting to me from a design standpoint, since I'm a web developer currently, and have lower level knowledge about how certain features might be built and how potential issues that I find could be fixed or avoided from the beginning with the correct design choices.
+
+# Design critiques are meant to be purely objective, how are you gonna swing that?
+
+Yeah, look, I think Andrew Tate is generally a rotten human being, and I'm sure most people will agree. But I want to be a Real Designer™️ and Real Designers are objective in their design analysis and thinking, so we're purely going to be focusing on his terrible, terrible website.
+
+By the way, if you're the designer behind his website and you end up reading this, I'm not trying to drag you through the mud, I'm sure he was an awful client to work for and I've done worse things for money.
+
+Anyway, let's get started!
